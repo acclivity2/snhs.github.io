@@ -1,3 +1,3 @@
-# snhs.github.io
-Seaford Natural History Society
-Experimental project
+# snhs.github.io \n
+Seaford Natural History Society \n
+Experimental Project \n
